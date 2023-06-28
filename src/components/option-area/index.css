@@ -1,0 +1,18 @@
+.option__area {
+    background: white;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    border: 2px solid rgba(207,216,220,0.71);
+    text-align: center;
+
+}
